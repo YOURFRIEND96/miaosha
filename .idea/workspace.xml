@@ -264,7 +264,7 @@
       <path value="$PROJECT_DIR$/src/main/resources/static/assets/global/plugins/select2/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="3" />
     <option name="y" value="23" />
     <option name="width" value="1939" />
@@ -382,7 +382,7 @@
     <property name="SearchEverywhereHistoryKey" value="orderserv&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/java/com/miaoshaproject/service/impl/OrderServiceImpl.java&#10;pom&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/pom.xml&#10;pom,xml&#9;null&#9;null&#10;itemdomapp&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/java/com/miaoshaproject/dao/ItemDOMapper.java&#10;itemdomapper&#9;PSI&#9;JAVA://com.miaoshaproject.service.impl.ItemServiceImpl#itemDOMapper&#10;mybati&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/resources/mybatis-generator.xml&#10;itemser&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/java/com/miaoshaproject/service/ItemService.java&#10;mybatis&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/resources/mybatis-generator.xml&#10;usermodel&#9;FILE&#9;file://D:/IdeaProjects/workspace/miaosha/src/main/java/com/miaoshaproject/service/model/UserModel.java&#10;gethost.js&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619317748699" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619318730729" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -482,12 +482,12 @@
       <workItem from="1618979165814" duration="971000" />
       <workItem from="1619083989196" duration="28160000" />
       <workItem from="1619245027481" duration="18522000" />
-      <workItem from="1619275188867" duration="7477000" />
+      <workItem from="1619275188867" duration="8168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58209000" />
+    <option name="totallyTimeSpent" value="58900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,10 +499,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="19" width="1551" height="839" extended-state="0" />
+    <frame x="3" y="19" width="1551" height="839" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.22654155" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.22654155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -511,8 +511,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49940264" weight="0.26977402" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49940264" visible="true" weight="0.26977402" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
